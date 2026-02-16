@@ -1,2 +1,3 @@
-# Stealth-C2
-Keylogger C++ et serveur Python C2 à des fins éducatives 
+﻿# Stealth C2 Agent & Server
+
+Prochaine étape utiliser l'API Telegram pour recevoir les inputs
